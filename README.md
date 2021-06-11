@@ -1,2 +1,1 @@
 # meltdown
-test ssh
